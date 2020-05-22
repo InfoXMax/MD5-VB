@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "md5-Hash", "md5-Hash\md5-Hash.vbproj", "{B8BD7D4D-CD4D-4CE9-9F0C-9BD9AAC776E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8BD7D4D-CD4D-4CE9-9F0C-9BD9AAC776E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8BD7D4D-CD4D-4CE9-9F0C-9BD9AAC776E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8BD7D4D-CD4D-4CE9-9F0C-9BD9AAC776E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8BD7D4D-CD4D-4CE9-9F0C-9BD9AAC776E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F873B5D4-B4D2-4C28-9608-0519B5BE14C5}
+	EndGlobalSection
+EndGlobal
